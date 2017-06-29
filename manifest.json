@@ -1,8 +1,8 @@
 {
-  "name": "Tab Suspender (Tab Unloader)",
+  "name": "EnergyLink Tab Suspender (Tab Unloader)",
   "short_name": "itsuspender",
   "description": "Automatically suspend (hibernate) inactive tabs to free up system resources",
-  "author": "Richard Neomy",
+  "author": "Richard Neomy / Ivan Rafael",
   "version": "0.1.7",
   "manifest_version": 2,
   "permissions": [
